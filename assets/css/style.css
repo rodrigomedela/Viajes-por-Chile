@@ -65,3 +65,8 @@ footer{
 footer a{
     color: #ffffff;
 }
+
+.card-img-top {
+    height: 200px; /* Ajusta la altura de las imágenes */
+    object-fit: cover; /* Ajusta la forma en que se ajusta la imagen dentro del contenedor */
+}
